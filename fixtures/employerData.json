@@ -1,0 +1,36 @@
+{
+  "plans": {
+    "starter": {
+      "fullName": "Starter Employer",
+      "email": "muhammad.ahmad+em01@alpharages.com",
+      "businessName": "Hong Kong Wok",
+      "password": "A@123456"
+    },
+    "smarter": {
+      "fullName": "Smarter Employer",
+      "email": "muhammad.ahmad+em02@alpharages.com",
+      "businessName": "Brian Hewitt Photography",
+      "password": "A@123456"
+    },
+    "pro": {
+      "fullName": "Pro Employer",
+      "email": "muhammad.ahmad+em03@alpharages.com",
+      "businessName": "Adel's Famous Halal Food",
+      "password": "A@123456"
+    }
+  },
+  "simple": {
+    "fullName": "Simple Employer",
+    "email": "muhammad.ahmad+em04@alpharages.com",
+    "businessName": "air and space",
+    "password": "A@123456"
+  },
+  "invalid": {
+    "invalidEmail": {
+      "fullName": "Invalid Employer",
+      "email": "invalid@email",
+      "businessName": "ber",
+      "password": "Test@1234"
+    }
+  }
+}

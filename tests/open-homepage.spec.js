@@ -7,6 +7,4 @@ test('Open StaffedUp Dev homepage and verify title', async ({ page }) => {
   // Verify title contains 'StaffedUp'
   await expect(page).toHaveTitle(/StaffedUp/);
 
-  // Verify "Sign Up" button is visible
-//   await expect(page.locator('text=Sign Up')).toBeVisible();
 });

@@ -1,0 +1,12 @@
+[
+  {
+    "phone": "2034751821",
+    "email": "muhammad.ahmad+app01@alpharages.com",
+    "password": "A@123456"
+  },
+  {
+    "phone": "2034751822",
+    "email": "invalidemail@test.com",
+    "password": "short"
+  }
+]
